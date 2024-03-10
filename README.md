@@ -38,4 +38,6 @@
 
 <br clear="both">
 
+<img src="https://raw.githubusercontent.com/Yensane/Yensane/output/snake.svg" alt="Snake animation" />
+
 ###
